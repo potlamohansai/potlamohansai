@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @potlamohansai
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MERN Stack and Blockchain
-- 💞️ I’m looking to collaborate on projects related to MERN Stack and Blockchain.
-- 🎓 Completed Graduation in Electrical and Electronics Engineering.
+- 🌱 I’m currently learning DSA and Web Development
+- 🎓 Completed Post Graduation in Electrical and Electronics Engineering.
 - 💼 Actively looking for an opportunity to work as a Software Development Engineer.
 - 📫 You can reach me at potlamohansai@gmail.com
 
